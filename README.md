@@ -4,7 +4,7 @@ An Android app built with **Kotlin** and **Jetpack Compose** as part of the
 [Android Basics with Compose](https://developer.android.com/courses) course by Google.
 
 ## 📱 Screenshots
-_Coming soon_
+![Topics App Screenshot](screenshots/topics_app.jpeg)
 
 ## 🚀 Features
 - Displays a grid of topics, each showing an image, name, and course count
